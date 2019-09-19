@@ -1,7 +1,7 @@
 ---
-layout:post
+layout: post
 title: A blog post
-categories: project
+categories:  project
 ---
 To make a t r e e in c#. i like don cheadle btw 
 ##b
